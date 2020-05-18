@@ -1,6 +1,7 @@
-# hopping_tomography
+# Hopping tomography
 
 ## Installation
+Clone the project, make sure that you have cvxpy and Gaussian fermions and run the notebooks to perform some exemplary tomographic reconstructions.
 
 ## Dependencies
 The package uses 
