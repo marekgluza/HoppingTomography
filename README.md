@@ -28,6 +28,7 @@ pip install gaussian_fermions
 ## How to run a simple tomographic reconstrcuction:
 The repository includes two notebooks which run the reconstruction from simulated data. 
 The main text ipynb shows how to reconstruct based on a thermal state and in the appendix reconstructions are shown based on out-of-equilibrium input states.
+There are two notebooks for tomography, one produces the main text thermal reconstruction and the other produces the reconstructions for the appendix.
 
 
 
