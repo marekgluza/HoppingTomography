@@ -1,6 +1,7 @@
-# hopping_tomography
+# Hopping tomography
 
 ## Installation
+Clone the project, make sure that you have cvxpy and Gaussian fermions and run the notebooks to perform some exemplary tomographic reconstructions.
 
 ## Dependencies
 The package uses 
@@ -27,6 +28,7 @@ pip install gaussian_fermions
 ## How to run a simple tomographic reconstrcuction:
 The repository includes two notebooks which run the reconstruction from simulated data. 
 The main text ipynb shows how to reconstruct based on a thermal state and in the appendix reconstructions are shown based on out-of-equilibrium input states.
+There are two notebooks for tomography, one produces the main text thermal reconstruction and the other produces the reconstructions for the appendix.
 
 
 
